@@ -1,1 +1,5 @@
-adding 
+adding
+
+more stuff has been added we are cloning to the
+remote to local making changes pushing it back to
+remote repository
